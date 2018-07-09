@@ -1,0 +1,1 @@
+This is the repository for the  first alpha-blog of the complete Ruby on Rails developer course
